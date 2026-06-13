@@ -40,8 +40,8 @@
 ## Certifications
 - **ISTQB Certified Tester**, Foundation Level (CTFL) v4.0 — <small>May, 2026</small> [Credential](https://app.skillsclub.com/credential/297474-70fd5197c777c791ae69f8e90755aaa3961d47d16a221430a496f817f5a48a49)
 
-- **Certified Scrum Master**, Scrum Foundation — <small>June, 2020</small> [Credential](../images/scrum.png)
-- **Certified SQL Server**, Academia QA — <small>September, 2020</small> [Credential](../images/sql.png)
+- **Certified Scrum Master**, Scrum Foundation — <small>June, 2020</small> [Credential](images/scrum.png)
+- **Certified SQL Server**, Academia QA — <small>September, 2020</small> [Credential](images/sql.png)
 
 ## Languages
 - **English**: Intermediate
