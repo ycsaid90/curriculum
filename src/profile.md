@@ -1,7 +1,7 @@
 # Profile
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="../images/1765899302483.jpg" alt="My photo" width="150">
+  <img src="../images/profile.jpg" alt="Profile photo" width="150">
   <div>
     <h1 style="margin-bottom: 15px;">Yadira Cardoso Said</h1>
     <h3 style="margin-top: 0px;">Senior Software Quality Assurance</h3>
