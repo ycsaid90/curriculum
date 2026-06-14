@@ -17,7 +17,7 @@
 > Detail-oriented, resourceful, and goal-driven professional with a proven track record of delivering high-quality software products to web applications and mobile testing.
 
 > **LinkedIn**: [Yadira Cardoso Said](https://www.linkedin.com/in/ycsaid/) |
-> **GitHub**: [Portfolio](https://github.com/ycsaid90/test_magento-softwaretestingboard) |
+> **GitHub**: [Portfolio](https://github.com/ycsaid90/automation-testing-portfolio) |
 > **Email**: [ycsaid@gmail.com](mailto:ycsaid@gmail.com)
 
 
