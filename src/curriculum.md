@@ -37,7 +37,7 @@
 - Analyzed Software Requirement Specifications (SRS) and User Stories to develop test plans, test strategies, test cases, and test summary reports for end-to-end functional testing.
 - Applied black-box and experience-based testing techniques to define test conditions, identify coverage items, and determine appropriate test data.
 
-> [University of Computer Sciences](https://www.uci.cu/) — Software Test Engineer . (<small>2013 - 2022</small>)
+> [University of Computer Sciences](https://www.uci.cu/) — Software Test Engineer . (<small>2013 - 2020</small>)
 - Conducted requirement gathering in close collaboration with clients, ensuring a clear understanding of their needs.
 
 - Identified and classified Functional, Non-functional, and Technical requirements of the system.
