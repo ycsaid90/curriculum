@@ -44,7 +44,7 @@
 - **Certified SQL Server**, Academia QA — <small>September, 2020</small> [Credential](images/sql.png)
 
 ## Languages
-- **English**: Intermediate
+- **English**: Professional
 
 - **Spanish**: Native
 
